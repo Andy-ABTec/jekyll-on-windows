@@ -54,4 +54,4 @@ windows:
       panes:
         - clear; ls -la
         - ~/git-status-loop.sh 
-        - ~/start-minimal-mistakes.sh
+        - ~/start.sh minimal-mistakes
