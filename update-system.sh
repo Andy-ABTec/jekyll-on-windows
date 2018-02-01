@@ -14,7 +14,7 @@ fi
 #
 cd ${1}
 #
-sudo apt-get update -y && sudo apt-get upgrade -y
+sudo apt-get update -y && sudo apt-get dist-upgrade -y
 #
 echo
 #
