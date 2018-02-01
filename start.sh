@@ -1,4 +1,3 @@
-```
 #!/bin/bash
 #
 repo_path=${1}
@@ -14,4 +13,3 @@ then
 else
         bundle exec jekyll serve
 fi
-```
