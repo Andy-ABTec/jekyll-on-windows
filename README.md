@@ -1,4 +1,4 @@
 # jekyll-on-windows
-## Jekyll on Windows 10 build with WSL/Ruby/tux etc ##
+## Run Jekyll on Windows 10 using WSL/Ruby/tux etc ##
 
 _Instructions in the [Wiki](https://github.com/Andy-ABTec/jekyll-on-windows/wiki), lest I forget..._
